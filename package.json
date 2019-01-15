@@ -1,6 +1,6 @@
 {
   "name": "snabbel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "objectel binding for snabbdom",
   "index": "index.js",
   "main": "build/lib/snabbel.js",
